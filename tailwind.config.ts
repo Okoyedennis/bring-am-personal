@@ -31,6 +31,7 @@ const config: Config = {
         bgErrorPrimary: "#FFEEEE",
         errorPrimary: "#AC2727",
         bgBluePrimary: "#F0F4FF",
+        bgActive: "#F0FAFF",
       },
       fontFamily: {
         Poppins: ["var(--font-poppins)", "sans-serif"],
